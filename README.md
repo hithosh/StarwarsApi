@@ -1,3 +1,24 @@
+#about 
+React project that connects to the StarWars API using React with Typescript and React Hooks
+* Display results 
+* Searchable result
+* create dynamic Avatar based on api provide attributes
+* pagination
+
+
+#Api(starwar api to fetch people)
+https://swapi.dev/api/people
+
+
+#Generata Avatar based on attributes provide by:
+using avataars package  and generate avatar based on hari_color,gender
+install:
+npm install avataaars
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
