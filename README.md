@@ -13,6 +13,7 @@ https://swapi.dev/api/people
 #Generata Avatar based on attributes provide by:
 using avataars package  and generate avatar based on hari_color,gender
 install:
+
 npm install avataaars
 
 
