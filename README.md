@@ -2,7 +2,7 @@
 React project that connects to the StarWars API using React with Typescript and React Hooks
 * Display results 
 * Searchable result
-* create dynamic Avatar based on api provide attributes
+* create dynamic Avatar based on api provided attributes
 * pagination
 
 
